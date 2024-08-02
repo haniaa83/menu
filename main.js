@@ -55,3 +55,4 @@ fs.renamesync(path1) */
 let s = JSON.stringify(obj, null, 2)*/ 
 //  برای تبدیل فایل به جیسون به صورت مرتب 
 
+
